@@ -40,7 +40,10 @@ body {
 img {
   display: block;
 }
-
+.section {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
 /* =========== Header styles =========== */
 
 .page-header {
