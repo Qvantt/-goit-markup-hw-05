@@ -754,10 +754,7 @@ img {
 }
 
 .callback-form-checkbox-label {
-  display: flex;
   align-items: center;
-  justify-content: flex-start;
-  flex-direction: row;
   gap: 8px;
   font-size: 12px;
   line-height: 1.17;
